@@ -6,13 +6,30 @@ It returns data including `title`, `views`, `links to thumbnail` and `various fo
 
 ### Usage
 
-`curl https://YT-Fetch.siddhantkcode.repl.co/api/{video_id}`
+For Now: 
+
+Run it On `Repl.it`: https://repl.it/@SiddhantKcode/YT-Fetch
+
+Press `Ctrl+shift+s` to open shell and run following commands:
+
+  `pip install -r requirements.txt`
+  
+  `python main.py`
+  
+Now, Go to the following Link:https://yt-fetch.siddhantkcode.repl.co/api/7jwiIn_1YXE
+
 
 Example: https://yt-fetch.siddhantkcode.repl.co/api/7jwiIn_1YXE
 
 > Original Video Link: https://www.youtube.com/watch?v=7jwiIn_1YXE
 
+
 This should return all the necessary data required to create an app.
+
+### Future Possible Updates:
+
+>` curl https://YT-Fetch.siddhantkcode.repl.co/api/{video_id}`
+
 
 ### Response Contents
 
